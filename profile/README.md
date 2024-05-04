@@ -1,6 +1,4 @@
-<h1 align="center">OIIOIOIIIOOOIOIO</h1>
+<h1 align="center">System development and Project under the name OIIO</h1>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/889652344202088458/1199619024422703104/Aris_Dancing_Arisu_Blue_Archive_Sticker_-_Aris_dancing_Arisu_blue_archive_Aris_blue_archive_-_Temukan__Bagikan_GIF.gif" />
+<img src="https://github.com/OIIOIOIIIOOOIOIO/.github/assets/45807795/bdd42266-6fba-49a5-a7cb-04666818f272" />
 </p>
-<p align="center">OIIOIOIIIOOOIOIOOIIOIOIIIOOOIOIOOIIOIOIIIOOOIOIO</p>
-<p align="center">OIIOIOIIIOOOIOIOOIIOIOIIIOOOIOIOOIIOIOIIIOOOIOIOOIIOIOIIIOOOIOIOOIIOIOIIIOOOIOIO</p>
